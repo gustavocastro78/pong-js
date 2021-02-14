@@ -11,6 +11,14 @@
 
 This's a rereading for the classic arcade game "Pong", developed using Javascript Vanilla.
 
+### How it works
+
+Use the keys "W" and "S" to move the player one (left side), and the keys "I" and "K" to move the player two (right side).
+
+When the "ball" crosses the player's frontier, a point will be increased to the opponent player, and the round will be restarted.
+
+To restart the game, just press F5 button.
+
 ## :wrench: Technologies and Tools
 
 - HTML5
