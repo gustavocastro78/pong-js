@@ -13,8 +13,9 @@ This's a rereading for the classic arcade game "Pong", developed using Javascrip
 
 ## :wrench: Technologies and Tools
 
+- HTML5
 - Javascript
 
 ## :scroll: License
 
-This project is licensed under the [CC0 1.0 Universal (CC0 1.0) license](https://github.com/gustavocastro78/github-portfolio/blob/master/LICENSE).
+This project is licensed under the [CC0 1.0 Universal (CC0 1.0) license](https://github.com/gustavocastro78/pong-js/blob/master/LICENSE).
