@@ -1,0 +1,49 @@
+@font-face {
+  font-family: GameFont;
+  src: url('assets/game-font.otf') format('opentype');
+}
+html,
+body {
+  font-family: 'GameFont', serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 60pt;
+}
+
+#arcade {
+  background-color: #f6f618;
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#arcade-screen {
+  border-top: 590px solid #272727;
+  border-left: 60px solid transparent;
+  border-right: 60px solid transparent;
+  border-radius: 20px;
+  width: 725px;
+  position: absolute;
+  top: 200px;
+}
+
+#arcade-brand {
+  font-size: 36pt;
+  text-align: center;
+  position: absolute;
+  top: 0;
+}
+
+#game {
+  border: 3px solid black;
+  border-radius: 10px;
+  background-color: #4e4e4e;
+  position: absolute;
+  top: 260px;
+}
